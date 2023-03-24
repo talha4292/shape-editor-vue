@@ -76,10 +76,10 @@ export default {
   aspect-ratio: 1 / 1;
   color: black;
   background: #8C8C8C;
-  border: 6px solid #8C8C8C;
+  border: 4px solid #8C8C8C;
 }
 .tool-activated {
-  border: 6px solid #317545;
+  border: 4px solid #317545;
 }
 .icon {
   padding: 4px;

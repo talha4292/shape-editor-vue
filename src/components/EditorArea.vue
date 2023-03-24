@@ -80,7 +80,7 @@ export default {
           x: this.mouseX,
           y: this.mouseY,
           fill: 'red',
-          radius: 5
+          radius: 3
         })
       }
       if (this.activeTool === 'selection' && this.currSelected !== -1 && this.shapeClicked === false)
